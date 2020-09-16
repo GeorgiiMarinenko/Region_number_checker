@@ -41,7 +41,7 @@ rules:
 **run**
 Compille programm and create bin file "find_reg"
 
-**biinrun**
+**binrun**
 run bin file "find_reg"
 
 **all**
