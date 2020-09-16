@@ -34,7 +34,7 @@ SRCS/parser.cpp:54:19: warning: conversion from string literal to 'char *' is de
                                    ^
 1 warning generated.
 
-**Makefile's commands: (use "make + rule")**
+# Makefile's commands: (use "make + rule")
 
 rules: 
 
